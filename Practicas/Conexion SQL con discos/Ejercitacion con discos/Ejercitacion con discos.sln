@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercitacion con discos", "Ejercitacion con discos\Ejercitacion con discos.csproj", "{B0894493-23BF-452F-803F-0DEB46AD7EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0894493-23BF-452F-803F-0DEB46AD7EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0894493-23BF-452F-803F-0DEB46AD7EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0894493-23BF-452F-803F-0DEB46AD7EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0894493-23BF-452F-803F-0DEB46AD7EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF4A859-60B2-46A3-858C-27B93D18202B}
+	EndGlobalSection
+EndGlobal
