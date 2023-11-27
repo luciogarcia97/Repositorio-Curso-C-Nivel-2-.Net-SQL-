@@ -12,7 +12,8 @@ namespace Ejercitacion_con_discos
         public string Titulo { get; set; }
         public DateTime FechaLanzamiento { get; set; }
         public int CantidadCanciones { get; set; }
-        public string Estilo { get; set; }
-        public string TipoEdicion { get; set; }
+        public string UrlImagen { get; set; }
+        public Estilo Estilo { get; set; }
+        public TiposEdicion TipoEdicion { get; set; }
     }
 }
